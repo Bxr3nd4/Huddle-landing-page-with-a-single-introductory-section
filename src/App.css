@@ -56,7 +56,9 @@ header {
   padding: 50px;
 }
 .mockup {
-  width: 95%;
+  width: 90%;
+  margin-left: 50px;
+
 }
 .img-container{
   width: 50%;
